@@ -6,5 +6,5 @@
 #### 使用例：
 ```
 RULE-SET,https://raw.githubusercontent.com/blass0009/custom-rule-set/main/CDN_list.txt,DIRECT
-RULE-SET,https://raw.githubusercontent.com/blass0009/custom-rule-set/main/C_black_list,REJECT
+RULE-SET,https://raw.githubusercontent.com/blass0009/custom-rule-set/main/C_black_list.txt,REJECT
 ```
