@@ -10,3 +10,7 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,vdownload.hembed.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,akamai-content-network.com
